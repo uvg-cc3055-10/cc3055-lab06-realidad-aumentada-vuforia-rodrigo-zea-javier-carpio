@@ -2,7 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Vuforia;
-
+/* UVG 
+ * Javier Carpio - 17077
+ * Rodrigo Zea - 17058
+ * Plataformas Moviles y Juegos */
 public class VirtualButton : MonoBehaviour, IVirtualButtonEventHandler {
     private VirtualButtonBehaviour virtualBtn;
     public Animator birdAnim;
